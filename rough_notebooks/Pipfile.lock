@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "52806ff023ef3de9fe598caee29cffdb75b7efc94d2e4d72969150eef0463a1d"
+            "sha256": "d086aa40f1f25de93ee7fca8c8e3017f3a56dce05fbf4fae15d6cec640fb6782"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -39,6 +39,14 @@
             ],
             "index": "pypi",
             "version": "==2.3.2"
+        },
+        "gunicorn": {
+            "hashes": [
+                "sha256:9dcc4547dbb1cb284accfb15ab5667a0e5d1881cc443e0677b4882a4067a807e",
+                "sha256:e0a968b5ba15f8a328fdfd7ab1fcb5af4470c28aaf7e55df02a99bc13138e6e8"
+            ],
+            "index": "pypi",
+            "version": "==20.1.0"
         },
         "importlib-metadata": {
             "hashes": [
@@ -227,6 +235,14 @@
             ],
             "markers": "python_version < '3.12' and python_version >= '3.8'",
             "version": "==1.10.1"
+        },
+        "setuptools": {
+            "hashes": [
+                "sha256:5df61bf30bb10c6f756eb19e7c9f3b473051f48db77fddbe06ff2ca307df9a6f",
+                "sha256:62642358adc77ffa87233bc4d2354c4b2682d214048f500964dbe760ccedf102"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==67.8.0"
         },
         "threadpoolctl": {
             "hashes": [
