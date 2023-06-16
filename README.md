@@ -5,6 +5,6 @@ This includes Data I used,homeworks, and projects I completed throughout the cou
 
 N/B Every code,projects, articles here are written and done by me and me alone, i use this repo to track my progress and showcase what i have been learning  
 
-* Blog contain article while taking the course 
+* Blog contain article i wrote  while taking the course 
 * Data contains the datasets i used in the course
 * Rough_notebooks contains the code i wrote when praticing what i learnt in the course .
