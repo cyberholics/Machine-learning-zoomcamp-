@@ -7,4 +7,5 @@ N/B Every code,projects, articles here are written and done by me and me alone, 
 
 * Blog contain article i wrote  while taking the course 
 * Data contains the datasets i used in the course
-* Rough_notebooks contains the code i wrote when praticing what i learnt in the course .
+* Rough_notebooks contains the code i wrote when praticing what i learnt in the course.
+* Projects folder contains links to the project i did through out this coursework
